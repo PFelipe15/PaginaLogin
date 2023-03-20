@@ -209,7 +209,8 @@ a:hover {
 .img-right {
     height: 100%;
     width: 50%;
-    background: url('./assets/img-right.png') no-repeat;
+    background: url('./assets/img-right.png');
     background-size: cover;
+    background-repeat: no-repeat;
 
 }
