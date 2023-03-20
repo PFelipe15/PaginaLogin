@@ -123,7 +123,7 @@ a {
 
 .input-password input {
     width: 100%;
-
+    
 }
 
 .input-password .eye-none {
@@ -132,7 +132,7 @@ a {
     right: 20px;
     bottom: 15px;
     cursor: pointer;
-    visibility: hidden;
+    visibility: visible;
 }
 
 .input-password .eye-open {
@@ -141,7 +141,7 @@ a {
     right: 20px;
     bottom: 15px;
     cursor: pointer;
-    visibility: visible;
+    visibility: hidden;
 }
 
 
