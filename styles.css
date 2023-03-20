@@ -123,7 +123,7 @@ a {
 
 .input-password input {
     width: 100%;
-    
+
 }
 
 .input-password .eye-none {
@@ -187,12 +187,23 @@ a {
     font-weight: bold;
     font-size: 1.6rem;
     cursor: pointer;
+    transition: all 0.4s;
+}
+
+.btnEntrar:hover {
+    background-color: #9F67FF;
+
 }
 
 .box-footer {
+
     font-family: 'Titillium Web', sans-serif;
     font-weight: 400;
 
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .img-right {
